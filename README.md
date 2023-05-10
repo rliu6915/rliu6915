@@ -1,15 +1,15 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there, I am Daniel </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there, I am rliu6915 </h1>
 
-🎓 Master Student at Upenn, Major in Computer Science
+🎓 Master Student at University of Pennsylvania, Major in Computer Science
 
 🔭 I’m curious about Finance
 
-🎆 Enthusiastic about the Full-stack Engineering
+🎆 Enthusiastic about Technology
 
 
 👐 Reach out to me:
-[![Gmail Badge](https://img.shields.io/badge/-rliu6915@163.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](rliu6915@163.com)
+[![Gmail Badge](https://img.shields.io/badge/-rliu6915@connect.hku.hk-c14438?style=flat-square&logo=Gmail&logoColor=white)](rliu6915@connect.hku.hk)
 
 
 #### ⚡Technologies:
