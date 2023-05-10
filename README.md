@@ -20,13 +20,12 @@ Here are some ideas to get you started:
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-coder-hjh&hide=TeX&layout=compact&exclude_repo=Exploration-and-Predictive-Analysis-of-Cryptocurrency-Trading-with-Binance-History-Data&exclude_repo=Call-of-Duty-Game" /> -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Hugo-coder-hjh&show_icons=true&count_private=true" alt="Hugo-coder-hjh" />
 
-🎓 Master Student at Upenn, Major in Computer Science(MCIT)
+🎓 Master Student at Upenn, Major in Computer Science
 
-🔭 I’m currently curious about and learning Digital Health Investment
+🔭 I’m curious about Finance
 
 🎆 Enthusiastic about the Full-stack Engineering
 
-⚡ Fun fact: Actually I have a double major in Biotechnology
 
 👐 Reach out to me: [![Linkedin Badge](https://img.shields.io/badge/-JiahaoHe-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jiahaohe1999/?locale=en_US)
 [![Gmail Badge](https://img.shields.io/badge/-jiahaohe@seas.upenn.edu-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jiahaohe@seas.upenn.edu)
