@@ -1,9 +1,6 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there, I am Daniel </h1>
 
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-coder-hjh&hide=TeX&layout=compact&exclude_repo=Exploration-and-Predictive-Analysis-of-Cryptocurrency-Trading-with-Binance-History-Data&exclude_repo=Call-of-Duty-Game" /> -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hugo-coder-hjh&show_icons=true&count_private=true" alt="Hugo-coder-hjh" />
-
 🎓 Master Student at Upenn, Major in Computer Science
 
 🔭 I’m curious about Finance
