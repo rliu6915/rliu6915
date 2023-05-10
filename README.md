@@ -11,8 +11,8 @@
 🎆 Enthusiastic about the Full-stack Engineering
 
 
-👐 Reach out to me: [![Linkedin Badge](https://img.shields.io/badge/-JiahaoHe-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jiahaohe1999/?locale=en_US)
-[![Gmail Badge](https://img.shields.io/badge/-jiahaohe@seas.upenn.edu-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jiahaohe@seas.upenn.edu)
+👐 Reach out to me:
+[![Gmail Badge](https://img.shields.io/badge/-jiahaohe@seas.upenn.edu-c14438?style=flat-square&logo=Gmail&logoColor=white)](rliu6915@163.com)
 
 
 #### ⚡Technologies:
