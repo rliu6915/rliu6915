@@ -1,5 +1,5 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there, I am rliu6915 </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there, I'm rliu6915 </h1>
 
 🎓 Master Student at University of Pennsylvania, Major in Computer Science
 
