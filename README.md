@@ -26,4 +26,3 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
-![views since 2023/05/23](https://visitor-badge-deno.deno.dev/rliu6915.rliu6915.json)
