@@ -30,7 +30,7 @@
 ## 📨 Social & Contact
 
 <div align="left">
-  <a href="rliu6915@connect.hku.hk" target="_blank" rel="noreferrer"> <img alt="Email Address" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  <a href="mailto:rliu6915@connect.hku.hk" target="_blank" rel="noreferrer"> <img alt="Email Address" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
   &nbsp;
   <a href="https://rliu6915.github.io" target="_blank" rel="noreferrer"> <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
   &nbsp;
