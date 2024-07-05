@@ -119,7 +119,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/rliu6915/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rliu6915&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true" alt="Top Languages" /> </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rliu6915&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true" alt="Top Languages" /> </a>
     </td>
   </tr>
 </table>
